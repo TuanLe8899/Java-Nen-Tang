@@ -35,6 +35,7 @@ public class ThapOptimizeMethod {
 	public static void myPrint(String content) {
 		System.out.println(content);
 	}
+	
 	public static void printCharacterOnLine(int length, char character) {
 		for (int i = 1; i <= length; i++) {
 			System.out.print(character);
