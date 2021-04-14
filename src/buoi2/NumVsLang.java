@@ -21,9 +21,10 @@ public class NumVsLang {
 		//result
 		String result;
 		
-		//Start check
+		//Start check language
 		if(clientLang.equals("en"))
 		{
+			//Start check number
 			switch (clientNumber) {
 				case 1: result = "Monday";break;
 				case 2: result = "Tuesday";break;
@@ -32,12 +33,13 @@ public class NumVsLang {
 				case 5: result = "Friday";break;
 				case 6: result = "Saturday";break;
 				case 7: result = "Sunday";break;
-				default: result = "Vui long nhap vao so tu 1 den 7";
+				default: result = "Vui long nhap vao so tu 1 den 7"; //error
 				break;
 			}
 		} 
 		else if(clientLang.equals("vi"))
 		{
+			//Start check number
 			switch (clientNumber) {
 				case 1: result = "Thu hai";break;
 				case 2: result = "Thu ba";break;
@@ -46,10 +48,10 @@ public class NumVsLang {
 				case 5: result = "Thu sau";break;
 				case 6: result = "Thu bay";break;
 				case 7: result = "Chu nhat";break;
-				default: result = "Vui long nhap vao so tu 1 den 7";
+				default: result = "Vui long nhap vao so tu 1 den 7"; //error
 				break;
 			}	
-		} else result = "vui long nhap vao vi hoac en";
+		} else result = "vui long nhap vao vi hoac en"; //error
 		
 		System.out.println(result);
 	}

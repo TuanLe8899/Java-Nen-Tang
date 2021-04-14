@@ -9,7 +9,6 @@ public class AVGnum {
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 
-		
 		//Nhap vao so luong so
 		System.out.println("Nhap vao bao nhieu so? Nhap vao day: ");
 		int clientNumber = sc.nextInt();
@@ -29,7 +28,5 @@ public class AVGnum {
 		
 		//In ket qua
 		System.out.println("Trung binh cong cua cac so vua nhap la: " + AVGnum);
-		
 	}
-
 }
