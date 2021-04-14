@@ -14,7 +14,7 @@ public class ShapeNumberZ {
 		     3                      3
 		       4                    4
 		         5                  5
-		           6				6
+		           6                6
 		 1 2 3 4 5 6 7              full
 		 */
 		
