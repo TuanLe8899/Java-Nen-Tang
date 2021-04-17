@@ -1,6 +1,6 @@
-package JavaBase_1_8;
+package chap01_basic;
 
-public class Shape06 {
+public class less_8_Shape06 {
 	
 	public static void main(String[] args) {
 		/*

@@ -1,9 +1,9 @@
-package JavaBase_1_9;
+package chap01_basic;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class ATM {
+public class less_9_ATM {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

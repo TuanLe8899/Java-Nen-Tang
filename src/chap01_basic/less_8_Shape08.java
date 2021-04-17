@@ -1,6 +1,6 @@
-package JavaBase_1_8;
+package chap01_basic;
 
-public class Shape08 {
+public class less_8_Shape08 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

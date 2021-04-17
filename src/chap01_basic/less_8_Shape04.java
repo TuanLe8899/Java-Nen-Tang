@@ -1,17 +1,17 @@
-package JavaBase_1_8;
+package chap01_basic;
 
-public class Shape03 {
+public class less_8_Shape04 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
-			*
-		   **
-		  ***
-		 ****
 		*****
-		*/
-		for(int number = 1; number <= 5; number++)
+		 ****
+		  ***
+		   **
+		    *
+		 */
+		for(int number = 5; number >= 1; number--)
 		{
 			for(int i = 1; i <= 5-number;i++)
 			{

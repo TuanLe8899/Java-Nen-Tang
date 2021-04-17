@@ -1,8 +1,8 @@
-package JavaBase_1_6;
+package chap01_basic;
 
 import java.util.Scanner;
 
-public class NextVsNextLineScanner {
+public class less_6_NextVsNextLineScanner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

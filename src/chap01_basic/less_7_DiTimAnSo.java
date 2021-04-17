@@ -1,8 +1,8 @@
-package JavaBase_1_7;
+package chap01_basic;
 
 import java.util.Scanner;
 
-public class DiTimAnSo {
+public class less_7_DiTimAnSo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

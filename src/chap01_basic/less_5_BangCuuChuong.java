@@ -1,6 +1,6 @@
-package JavaBase_1_5;
+package chap01_basic;
 
-public class BangCuuChuong {
+public class less_5_BangCuuChuong {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
