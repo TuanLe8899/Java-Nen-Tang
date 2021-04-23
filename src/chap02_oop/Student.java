@@ -1,5 +1,4 @@
-package JavaBase_2_6;
-
+package chap02_oop;
 
 public class Student extends Person {
 	private double score;

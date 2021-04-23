@@ -1,4 +1,4 @@
-package JavaBase_2_6;
+package chap02_oop;
 
 import java.util.Calendar;
 

@@ -60,7 +60,7 @@ public class less_9_ATM {
 		newMoney = returnValMoney(newMoney, TEN_THOUSAND);
 	}
 	
-	//Tính số tờ tiền cùng loại
+	//Tính số tờ tiền cùng loại và in ra kết quả
 	public static void countNumberMoney(int money, int denoOfMoney, int countMoney) {
 		DecimalFormat formatter = new DecimalFormat("#,###");
 		if (money >= denoOfMoney) {
@@ -69,7 +69,7 @@ public class less_9_ATM {
 		}
 	}
 	
-	//Trả về giá trị tiền
+	//Trả về giá trị tiền còn lại
 	public static int returnValMoney(int money, int denoOfMoney) {
 			money 		= money % denoOfMoney;
 			return money;

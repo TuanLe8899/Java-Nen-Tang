@@ -6,11 +6,11 @@ public class less_5_BangCuuChuong {
 		// TODO Auto-generated method stub
 		for(int i = 2; i < 10; i++)
 		{
-			for(int j = 1; j < 10; j++)
+			for(int j = 2; j < 10; j++)
 			{
-				System.out.println(i+"x"+j+"="+i*j);
+				System.out.printf("%d x %d = %d \t",j,i,j*i);
 			}
-			System.out.println("------------------");
+			System.out.println();
 		}
 	}
 
