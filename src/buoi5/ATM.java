@@ -20,12 +20,12 @@ public class ATM {
 		final int TWEENTY_THOUSAND		= 20000;
 		final int TEN_THOUSAND			= 10000;
 		
-		final int TOTAL_FIVE_HUNDRED_THOUSAND	= 10;
-		final int TOTAL_TWO_HUNDRED_THOUSAND	= 10;
-		final int TOTAL_ONE_HUNDRED_THOUSAND	= 10;
-		final int TOTAL_FIFTY_THOUSAND			= 10;
-		final int TOTAL_TWEENTY_THOUSAND		= 10;
-		final int TOTAL_TEN_THOUSAND			= 10;
+		final int TOTAL_FIVE_HUNDRED_THOUSAND	= 2;
+		final int TOTAL_TWO_HUNDRED_THOUSAND	= 2;
+		final int TOTAL_ONE_HUNDRED_THOUSAND	= 99999;
+		final int TOTAL_FIFTY_THOUSAND			= 99999;
+		final int TOTAL_TWEENTY_THOUSAND		= 99999;
+		final int TOTAL_TEN_THOUSAND			= 99999;
 		
 		
 		int fiveHundredThousand	= 0;
