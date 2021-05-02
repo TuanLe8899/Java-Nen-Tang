@@ -1,7 +1,5 @@
 package buoi6;
 
-import java.util.Arrays;
-
 public class CompareString {
 
 	public static void main(String[] args) {
@@ -22,5 +20,4 @@ public class CompareString {
 		System.out.printf("%s xuất hiện %d lần trong chuỗi",id,count);
 		
 	}
-
 }
