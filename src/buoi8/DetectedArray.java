@@ -23,7 +23,6 @@ public class DetectedArray {
 		if( arrOne[0] + arrOne[length-1] == number || arrOne[0] - arrOne[length-1] == number ) {
 			check = "OK";
 		} else {
-			
 			//Tổng giá trị các phần tử mảng
 			int sumArr 	= 0;
 			for(int n : arrOne)
