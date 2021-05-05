@@ -1,7 +1,5 @@
 package buoi6;
 
-import java.util.Arrays;
-
 public class ConvertString {
 
 	public static void main(String[] args) {
@@ -10,7 +8,6 @@ public class ConvertString {
 		String[] arrStr = str.split("/");
 		
 		int length 		= arrStr.length;
-		int index		= 0;
 		
 		String[] fileInfo = arrStr[length-1].split("\\.");
 
